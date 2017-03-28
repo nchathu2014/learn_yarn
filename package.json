@@ -1,0 +1,13 @@
+{
+  "name": "learn_yarn",
+  "version": "1.0.0",
+  "description": "This is a learing repo of yarn",
+  "main": "index.js",
+  "repository": "https://github.com/nchathu2014/learn_yarn.git",
+  "author": "nchathu2014@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "react": "^15.4.2"
+  }
+}
